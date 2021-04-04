@@ -1,0 +1,59 @@
+{
+  "order": [
+    {
+      "id": 0,
+      "menu": "dodol",
+      "price": "12000"
+    },
+    {
+      "menu": "singkong",
+      "price": "10000",
+      "id": 1
+    },
+    {
+      "menu": "nasi",
+      "price": "5000",
+      "id": 2
+    },
+    {
+      "menu": "lontong",
+      "price": "2000",
+      "id": 3
+    },
+    {
+      "menu": "sayur",
+      "price": "5000",
+      "id": 4
+    },
+    {
+      "menu": "aqua",
+      "price": "5000",
+      "id": 5
+    },
+    {
+      "menu": "ketupuk",
+      "price": "1200",
+      "id": 6
+    },
+    {
+      "menu": "kikil",
+      "price": "3000",
+      "id": 7
+    },
+    {
+      "menu": "telur",
+      "price": "3000",
+      "id": 8
+    },
+    {
+      "menu": "teh",
+      "price": "2000",
+      "id": 9
+    },
+    {
+      "menu": "teh",
+      "price": "2000",
+      "id": 10
+    }
+  ]
+}
